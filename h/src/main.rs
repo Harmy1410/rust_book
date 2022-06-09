@@ -1,4 +1,4 @@
-#[warn(dead_code)]
+#[warn(dead_code, unused_variables)]
 struct User {
     username: String,
     email: String,

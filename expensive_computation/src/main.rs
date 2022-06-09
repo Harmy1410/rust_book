@@ -1,6 +1,6 @@
 fn main() {
-    let r = 100;
-    let c = 200;
+    let r = 10;
+    let c = 20;
     let x = gen_mat(r, c);
     let y = gen_mat(r, c);
     for _ in 1..100_000 {

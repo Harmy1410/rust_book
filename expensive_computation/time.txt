@@ -1,0 +1,1 @@
+cargo run  2.63s user 0.01s system 97% cpu 2.721 total
